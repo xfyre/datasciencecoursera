@@ -10,7 +10,7 @@ The rest of columns indicate measured data. As per project specifications,
 only mean() (mean value) and std() (standard deviation) values are included
 in the output data set.
 
-The following measurments are available:
+The following measurements are available:
 
     tBodyAcc-XYZ (3 variables, measured along each axis)
     tGravityAcc-XYZ (3 variables, measured along each axis)
