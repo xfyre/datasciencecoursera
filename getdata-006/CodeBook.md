@@ -1,10 +1,12 @@
-== "Getting and Cleaning Data" course project code book ==
+# Getting and Cleaning Data course project code book
 
 Subject
-    Number identifying a subject participated in experiment
+
+> Number identifying a subject participated in experiment
 
 Activity
-    Name of activity performed during the experiment
+
+> Name of activity performed during the experiment
 
 The rest of columns indicate measured data. As per project specifications,
 only mean() (mean value) and std() (standard deviation) values are included
